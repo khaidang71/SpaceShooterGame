@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>SkyFire.mp3</file>
+        <file>laser4.wav</file>
+        <file>Chunky_Explosion.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>Bullet.png</file>
+        <file>enemy.png</file>
+        <file>player.gif</file>
+        <file>enemy2.png</file>
+        <file>Bullet2.png</file>
+        <file>alien.png</file>
+        <file>bullet3.png</file>
+        <file>Bullet3.png</file>
+        <file>Bullet4.png</file>
+        <file>player_red.png</file>
+        <file>player/player-0.png</file>
+        <file>player/player-1.png</file>
+        <file>Enemy/astroid.png</file>
+        <file>Enemy/GodfatherFrame1.png</file>
+        <file>Enemy/GodfatherFrame2.png</file>
+        <file>Enemy/GodfatherFrame3.png</file>
+        <file>Enemy/GodfatherFrame4.png</file>
+        <file>Enemy/GodfatherFrame5.png</file>
+        <file>sprites_-_lasers_bullets_1_66v2.5/Laser Sprites/59.png</file>
+        <file>star.png</file>
+        <file>player/nplayer-0.png</file>
+        <file>player/nplayer-1.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION1.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION2.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION3.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION4.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION5.png</file>
+        <file>ExplosionPlayer/EXPLOSION_ANIMATION6.png</file>
+        <file>Explosion/explosion1.png</file>
+        <file>Explosion/explosion2.png</file>
+        <file>Explosion/explosion3.png</file>
+        <file>Explosion/explosion4.png</file>
+        <file>Explosion/explosion5.png</file>
+        <file>Explosion/explosion6.png</file>
+        <file>Explosion/explosion7.png</file>
+        <file>Explosion/explosion8.png</file>
+        <file>Explosion/explosion9.png</file>
+        <file>Explosion/explosion10.png</file>
+        <file>Explosion/explosion11.png</file>
+        <file>Explosion/explosion12.png</file>
+        <file>Explosion/explosion13.png</file>
+        <file>Explosion/explosion14.png</file>
+        <file>Explosion/explosion15.png</file>
+        <file>Explosion/explosion16png.png</file>
+        <file>Boom/BOOMFrame1.png</file>
+        <file>Boom/BOOMFrame2.png</file>
+        <file>Boom/BOOMFrame3.png</file>
+        <file>Boom/BOOMFrame4.png</file>
+        <file>Boom/BOOMFrame5.png</file>
+    </qresource>
+</RCC>
